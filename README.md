@@ -4,10 +4,10 @@
 - luiscbr92[at]gmail[dot]com
 
 # UVaJudge
-* [UVa 100 - The 3n + 1 problem](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/100/code.cpp)
+* ~~[UVa 100 - The 3n + 1 problem](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/100/code.cpp)~~
 * UVa 272 - TEX Quotes
-* UVa 573 - Horror Dash
-* UVa 10055 - Hashmat the Brave Warrior
+* UVa 573 - The Snail
+* ~~[UVa 10055 - Hashmat the Brave Warrior](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/10055/code.cpp)~~
 * UVa 10071 - Back to High School Physics
 * UVa 10114 - Loansome Car Buyer
 * UVa 10141 - Request for Proposal
