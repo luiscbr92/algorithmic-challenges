@@ -4,7 +4,7 @@
 - luiscbr92[at]gmail[dot]com
 
 # UVaJudge
-* UVa 100 - The 3n + 1 problem
+* [UVa 100 - The 3n + 1 problem](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/100/code.cpp)
 * UVa 272 - TEX Quotes
 * UVa 573 - Horror Dash
 * UVa 10055 - Hashmat the Brave Warrior
@@ -15,5 +15,5 @@
 * ~~[UVa 11498 - Division of Nlogonia](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11498/code.cpp)~~
 * UVa 11507 - Bender B. Rodríguez Problem
 * UVa 11559 - Event Planning
-* UVa 11727 - Cost Cutting
+* [UVa 11727 - Cost Cutting](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11727/code.cpp)
 * UVa 11799 - Horror Dash
