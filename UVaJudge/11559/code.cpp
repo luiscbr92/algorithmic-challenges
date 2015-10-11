@@ -7,7 +7,7 @@ int main(){
     int h, w;
 
     while(cin >> participants >> budget >> hotels >> weeks){
-        best_price = budget + 1; // Best price can't be greater budget
+        best_price = budget + 1; // Best price can't be greater than budget
         for(h = 0; h < hotels; h++){
             cin >> cost;
 
