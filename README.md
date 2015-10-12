@@ -28,7 +28,7 @@
 
 * ~~[UVa 11172 - Relational Operators](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11172/code.cpp)
 
-* [UVa 11364 - Parking](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2349)
+* ~~[UVa 11364 - Parking](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2349)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11364/code.cpp)
 
 * ~~[UVa 11498 - Division of Nlogonia](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2493)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11498/code.cpp)
 
