@@ -18,4 +18,4 @@
 * [UVa 11507 - Bender B. Rodríguez Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2502)
 * ~~[UVa 11559 - Event Planning](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2595)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11559/code.cpp)
 * ~~[UVa 11727 - Cost Cutting](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2827)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11727/code.cpp)
-* [UVa 11799 - Horror Dash](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)
+* ~~[UVa 11799 - Horror Dash](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2899)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/11799/code.cpp)
