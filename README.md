@@ -48,7 +48,7 @@
 
 * ~~[UVa 12289 - One-Two-Three](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3710)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12289/code.cpp)
 
-* [UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3794)
+* ~~[UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3794)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12372/code.cpp)
 
 * [UVa 12403 - Save Setu](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)
 
