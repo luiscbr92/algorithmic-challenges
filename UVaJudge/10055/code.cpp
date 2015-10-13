@@ -3,12 +3,11 @@
 using namespace std;
 
 int main(){
-    long a, b, dif;
+    unsigned long a, b, dif;
 
     while(cin >> a >> b){
-        dif = a - b;
-
-        if(dif < 0) dif = -dif;
+        if(a > b)   dif = a - b;
+        else        dif = b - a;
 
         cout << dif << "\n";
     }
