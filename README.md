@@ -46,7 +46,7 @@
 
 * ~~[UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12279/code.cpp)
 
-* [UVa 12289 - One-Two-Three](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3710)
+* ~~[UVa 12289 - One-Two-Three](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3710)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12289/code.cpp)
 
 * [UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3794)
 
