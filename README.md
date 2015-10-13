@@ -50,6 +50,6 @@
 
 * ~~[UVa 12372 - Packing for Holiday](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3794)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12372/code.cpp)
 
-* [UVa 12403 - Save Setu](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)
+* ~~[UVa 12403 - Save Setu](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3834)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12403/code.cpp)
 
 * [UVa 12577 - Hajj-e-Akbar](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4022)
