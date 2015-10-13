@@ -44,7 +44,7 @@
 
 * ~~[UVa 12250 - Language Detection](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3402)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12250/code.cpp)
 
-* [UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)
+* ~~[UVa 12279 - Emoogle Balance](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3431)~~ - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/UVaJudge/12279/code.cpp)
 
 * [UVa 12289 - One-Two-Three](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3710)
 
