@@ -27,7 +27,7 @@
 
 ###### Easy
 
-* [UVa 621 - Secret Research](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=562) NOT DONE
+* [UVa 621 - Secret Research](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=562) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/621/code.cpp)
 * [UVa 10114 - Loansome Car Buyer](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1055) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/10114/code.cpp)
 * [UVa 10300 - Ecological Premium](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1241) NOT DONE
 * [UVa 10963 - The Swallowing Ground](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1904) NOT DONE
