@@ -11,7 +11,6 @@ int main(){
         cout << "Case " << i << ": ";
         mile = 0;
         juice = 0;
-
         cin >> calls;
         for(j = 0; j < calls; j++){
             cin >> call_duration;
