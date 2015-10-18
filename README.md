@@ -41,7 +41,7 @@
 * [UVa 12157 - Tariff Plan](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3309) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/12157/code.cpp)
 * [UVa 12468 - Zapping](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3912) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/12458/code.cpp)
 * [UVa 12503 - Robot Instructions](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3947) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/12503/code.cpp)
-* [UVa 12554 - A Special "Happy Birthday" Song!!!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3999) NOT DONE
+* [UVa 12554 - A Special "Happy Birthday" Song!!!](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3999) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/02.Easy/12554/code.cpp)
 
 ###### Medium
 
