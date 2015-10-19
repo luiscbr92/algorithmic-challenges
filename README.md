@@ -47,7 +47,7 @@
 
 * [UVa 119 - Greedy Gift Givers](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/03.Medium/119/code.cpp)
 * [UVa 573 - The Snail](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=7&page=show_problem&problem=514) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/03.Medium/573/code.cpp)
-* [UVa 661 - Blowing Fuses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602) NOT DONE
+* [UVa 661 - Blowing Fuses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/03.Medium/661/code.cpp)
 * [UVa 10141 - Request for Proposal](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082) NOT DONE
 * [UVa 10324 - Zeros and Ones](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Competitive_Programming%5BUVaOJ%5D/01.Introduction/03.Medium/10324/code.cpp)
 * [UVa 10424 - Love Calculator](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1365) NOT DONE
