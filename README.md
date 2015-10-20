@@ -64,5 +64,6 @@
 ## Other
 
 * [UVa 100 - The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Other/100/code.cpp)
+* [UVa 957 - Popes](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=898) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Other/957/code.cpp)
 * [UVa 10055 - Hashmat the Brave Warrior](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=996) - [(code)](https://github.com/luiscbr92/algorithmic-challenges/blob/master/Other/10055/code.cpp)
 * [UVa 10071 - Back to High School Physics](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=1012) NOT DONE
