@@ -6,10 +6,10 @@ int main(){
     ios_base::sync_with_stdio (false);
 
     int period, popes, i, j, year, first_year, last_year, max_popes;
+    int years[100000];
 
     while(cin >> period){
         cin >> popes;
-        int years[popes];
         max_popes = 0;
 
         for(i = 0; i < popes; i++) cin >> years[i];
