@@ -31,7 +31,7 @@ int main(){
                     }
                 }
             }
-            if(courses_category < min_to_satisfy) requirements_satisfied = false;
+            if(requirements_satisfied && courses_category < min_to_satisfy) requirements_satisfied = false;
         }
 
         if(requirements_satisfied)  cout << "yes" << endl;
