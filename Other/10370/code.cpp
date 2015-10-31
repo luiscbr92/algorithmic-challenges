@@ -19,7 +19,7 @@ int main(){
             cin >> grades[i];
             average += grades[i];
         }
-        average /= (double)students;
+        average /= students;
 
         for(i = 0; i < students; i++){
             if(grades[i] > average) above++;
