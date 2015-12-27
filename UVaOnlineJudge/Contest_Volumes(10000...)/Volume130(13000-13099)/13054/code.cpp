@@ -12,15 +12,16 @@ int main(){
 
     cin >> cases;
     for(c = 1; c <= cases; c++){
-        hippos.clear();
-        time_spent = 0;
         cin >> number_of_hippos >> heigth_gate >> time_single >> time_double;
-        for(i = 0; i < number_of_hippos; i++){
-            cin >> tmp;
-            hippos.push_back(tmp);
-        }
 
-        if(time_double < 2*time_single){
+        if(time_double <= 2*time_single){
+            hippos.clear();
+            time_spent = 0;
+            for(i = 0; i < number_of_hippos; i++){
+                cin >> tmp;
+                hippos.push_back(tmp);
+            }
+
             sort(hippos.begin(), hippos.end());
             front_index = 0;
             back_index = number_of_hippos -1;
@@ -40,7 +41,10 @@ int main(){
 
             cout << "Case " << c << ": " << time_spent << "\n";
         }
-        else cout << "Case " << c << ": " << time_single*number_of_hippos << "\n";
+        else{
+            for(i = 0; i < number_of_hippos; i++) cin >> tmp;
+            cout << "Case " << c << ": " << time_single*number_of_hippos << "\n";
+        }
 
     }
 
