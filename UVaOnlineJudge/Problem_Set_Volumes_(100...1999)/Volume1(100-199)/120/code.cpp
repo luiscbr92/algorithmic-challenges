@@ -9,12 +9,13 @@ int main(){
     ios_base::sync_with_stdio (false);
 
     vector<int> diameters;
-    string input;
+    string input, output;
     int space_pos, i, j, max_diameter, max_pos;
 
+    output = "";
     while(getline(cin, input)){
         diameters.clear();
-        cout << input << '\n';
+        output += input + '\n';
 
         while(input != ""){
             if((space_pos = input.find(' ')) != string::npos){
@@ -38,15 +39,16 @@ int main(){
             }
             if(max_pos != i){
                 if(max_pos != diameters.size()-1){
-                    cout << max_pos+1 << ' ';
+                    output += to_string(max_pos+1) + ' ';
                     reverse(diameters.begin() + max_pos, diameters.end());
                 }
-                cout << i+1 << ' ';
+                output += to_string(i+1) + ' ';
                 reverse(diameters.begin() + i, diameters.end());
             }
         }
-        cout << "0\n";
+        output += "0\n";
     }
+    cout << output;
 
     return 0;
 }
