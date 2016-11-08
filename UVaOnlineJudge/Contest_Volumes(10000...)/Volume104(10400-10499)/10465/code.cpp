@@ -37,16 +37,6 @@ int main(){
       }
     }
 
-    /*cout << "**** hamburguers/beers\n";
-    for(int i = 0; i < 3; i++){
-      for(int j = 0; j <= t; j++){
-        cout << hamburguers[i][j] << '/' << beers[i][j] << ' ';
-      }
-      cout << endl;
-    }
-
-    cout << "****" << endl;*/
-
     cout << hamburguers[2][t];
     if(beers[2][t] != 0)
       cout << ' ' << beers[2][t];
