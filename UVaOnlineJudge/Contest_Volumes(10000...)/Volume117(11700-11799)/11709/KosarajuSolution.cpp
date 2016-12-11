@@ -4,31 +4,32 @@
 
 using namespace std;
 
-vector<int> empty_vector;
 vector<vector<int>> adjacency_list;
 vector<vector<int>> reverse_adjacency_list;
 vector<bool> used;
 vector<int> order;
 
-void dfs_for_first_phase(int vertex){
-  used[vertex] = true;
-  for(int i = 0; i < adjacency_list[vertex].size(); i++)
-    if(!used[adjacency_list[vertex][i]])
-      dfs_for_first_phase(adjacency_list[vertex][i]);
-  order.insert(order.begin(), vertex);
-}
-
-void dfs_for_second_phase(int vertex){
-  used[vertex] = true;
-  for(int i = 0; i < reverse_adjacency_list[vertex].size(); i++)
-    if(!used[reverse_adjacency_list[vertex][i]])
-      dfs_for_second_phase(reverse_adjacency_list[vertex][i]);
+void dfs(int vertex, bool in_reverse_graph){
+  if(in_reverse_graph == false){
+    used[vertex] = true;
+    for(int i = 0; i < adjacency_list[vertex].size(); i++)
+      if(!used[adjacency_list[vertex][i]])
+        dfs(adjacency_list[vertex][i], false);
+    order.insert(order.begin(), vertex);
+  }
+  else{
+    used[vertex] = true;
+    for(int i = 0; i < reverse_adjacency_list[vertex].size(); i++)
+      if(!used[reverse_adjacency_list[vertex][i]])
+        dfs(reverse_adjacency_list[vertex][i], true);
+  }
 }
 
 int main(){
   int people, relations, stable_groups;
   string name, person1, person2;
   int components;
+  vector<int> empty_vector;
   while(cin >> people >> relations && (people || relations)){
     cin.ignore();
     map<string, int> name_to_index;
@@ -52,14 +53,14 @@ int main(){
     fill(used.begin(), used.end(), false);
     for(int i = 0; i < people; i++)
       if(!used[i])
-        dfs_for_first_phase(i);
+        dfs(i, false);
 
     components = 0;
     fill(used.begin(), used.end(), false);
     for(int i = 0; i < people; i++)
       if(!used[order[i]]){
         components++;
-        dfs_for_second_phase(order[i]);
+        dfs(order[i], true);
       }
 
     cout << components << '\n';
