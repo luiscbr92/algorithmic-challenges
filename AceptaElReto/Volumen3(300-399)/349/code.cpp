@@ -15,12 +15,10 @@ int main(){
   cin.ignore();
   while(cases--){
     getline(cin, line);
-    //cout << line << endl;
     while(!op.empty())
       op.pop();
 
     for(int i = line.size()-1; i >= 0; i -= 2){
-      //cout << line[i] << endl;
       if(line[i] == '+'){
         a = op.top();
         op.pop();
