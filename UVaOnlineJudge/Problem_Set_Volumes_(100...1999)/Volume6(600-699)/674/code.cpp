@@ -15,7 +15,7 @@ int main(){
       if(amount >= coin[i])
         ways[i][amount] = ways[i-1][amount] + ways[i][amount-coin[i]];
       else
-        ways[i][amount] = max(ways[i][amount-1], ways[i-1][amount]);
+        ways[i][amount] = ways[i-1][amount];
 
   int amount;
   while(cin >> amount)
